@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TABLES</title>
+</head>
+<body>
+    <table border="1" cellpadding="10" cellspacing="10">
+    <tr><b>
+        <th colspan="2">NAME </th>
+        <!-- <td>NAME</td> -->
+        <th>CLASS</th>
+        <th>SCHOOL</th></b>
+    </tr>
+    <tr>
+        <td rowspan="2">Mahima </td>
+        <td rowspan="2">Gupta</td>
+        <td>11</td>
+        <td rowspan="2">MVM School</td>
+    </tr>
+    <tr>
+        <!-- <td>5</td>
+        <td>6</td> -->
+        <td>A</td>
+        <!-- <td>8</td> -->
+    </tr>
+    <tr>
+        <td rowspan="2">Sri</td>
+        <td rowspan="2">Krishna</td>
+        <td>3</td>
+        <td rowspan="2">LMS School</td>
+    </tr>
+    <tr>
+        <!-- <td>qq</td>
+        <td>ww</td> -->
+        <td>B</td>
+        <!-- <td>rr</td> -->
+    </tr>
+    <tr>
+        <td rowspan="2">Shivika </td>
+        <td rowspan="2">Gopal</td>
+        <td>5</td>
+        <td rowspan="2">SCPM School</td>
+    </tr>
+    <tr>
+        <!-- <td>5</td>
+        <td>6</td> -->
+        <td>A</td>
+        <!-- <td>8</td> -->
+    </tr>
+</table>
+</body>
+</html>
